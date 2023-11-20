@@ -1,1 +1,2 @@
-# Algoritmos-voraces-
+# Ejercicios propuestos sobre algoritmos voraces
+## LInk al repositorio:
